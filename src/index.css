@@ -3,11 +3,8 @@
     text-align: left;
   }
   
-  hr {
-    margin-top: 2em;
-    height: 1px;
-  }
-  
+
+
   button {
     min-width: 12em;
     display: flex;
