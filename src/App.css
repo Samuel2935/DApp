@@ -13,6 +13,7 @@
     align-content: center;
     gap: 1em;
     padding: 0.6em 1.2em;
+    height: 100vh;
     background-color: #5c5470;
     color: #efefef;
   }

@@ -6,7 +6,7 @@ import { WalletError } from "./components/WalletError"
 
 function App() {
   return (
-   <div className="container providers">
+   <div className="contain providers">
      <WalletProvider>
       
       <WalletList />
